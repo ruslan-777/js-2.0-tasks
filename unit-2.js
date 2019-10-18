@@ -121,3 +121,5 @@ button10.onclick = function () {
     c = parseInt(c);
     div7.innerHTML = (b + c);
 }
+
+
